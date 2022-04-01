@@ -1,0 +1,4 @@
+El proyecto lo realicé sin ninguno de los dos frameworks sugeridos pero avance hasta cierta parte con symphony,
+al ver que el tiempo se me estaba volviendo un problema continue sin el, pasa algo con la exportacion de la base
+de datos, no deja desde ningun navegador ni desde workbench, adjunte fotos de que me salia error y tambien de la 
+estructura de las tablas hechas, muchas gracias.
