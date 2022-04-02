@@ -1,1 +1,1 @@
-Este proyecto esta basado en una pagina web de un videoclub que consta de dos cruds, uno donde se añadiran peliculas a un catalogo y otro donde se añadiran los alquileres que podemos hacer con dichas peliculas
+Este proyecto esta basado en una pagina web de un videoclub que consta de dos cruds, uno donde se añadiran peliculas a un catalogo y otro donde se añadiran los alquileres que podemos hacer con dichas peliculas, el usuario del administrador es sebastian y la contraseña es "pass"
